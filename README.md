@@ -45,7 +45,7 @@ Alright, let's let the magic happen! First, we need to make sure we are in the r
 
 If you see `code`, we need to go into our `labs` folder first. To do this type `cd labs`. Now if should see `labs` next to the clock. We have to go one more folder in. I know this by looking at the folder structure on the left. See how `labs` is in `code` and `js-from-dom-to-node` is in labs? Ok now we need to `cd` into the `js-from-dom-to-node` lab. Take a look at your folder structure on the right to get the _exact_ name and then type `cd EXACT-FOLDER-YOU-WANT-TO-ENTER`. In my case, I get `js-from-dom-to-node`. If you were successful, you'll see `js-from-dom-to-node` next to the clock.
 
-To run your code, you can type `nodejs index.js`. `nodejs` is the node code runner and `index.js` is the name of your file. You should see:
+To run your code, make sure you have hit save and then at the flashing cursor below your code, you can type `nodejs index.js`. `nodejs` is the node code runner and `index.js` is the name of your file. You should see:
 
 ```
 Hello, World!
